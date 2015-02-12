@@ -1,1 +1,1 @@
-Powerfull grid in angularjs
+ArcGIS API for Angularjs
